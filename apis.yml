@@ -29,7 +29,7 @@ x-tier-reason: portfolio-lead
 x-status: defunct
 x-status-reason: 'Chapter 11 bankruptcy (Nov 2022); all domains redirect to claims.ftx.com bankruptcy
   portal. No live API or developer surface. Verified 2026-07-19.'
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-19'
 tags:
